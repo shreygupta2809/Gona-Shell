@@ -1,0 +1,20 @@
+fg 1
+cd ..
+cd 1
+cd ~
+gedit &
+job
+jobs
+ge
+kjob 2 5
+kjob 1 9
+exit
+ls | cat
+ls 
+ cat
+history
+quit
+exit
+ls | cat
+history
+quit
